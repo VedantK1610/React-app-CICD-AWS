@@ -36,3 +36,6 @@ This project demonstrates a CI/CD pipeline setup for a React app using AWS servi
 
 ## Deployment
 The app is deployed to an S3 bucket and can be accessed at http://react-cicd-project.s3-website.ap-south-1.amazonaws.com 
+
+## Credits
+This React app was originally developed by [Original Developer's Name](https://github.com/thehyperart11) . Special thanks to them for their work on this project.
