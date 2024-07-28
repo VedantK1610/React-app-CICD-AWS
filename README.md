@@ -13,6 +13,8 @@ This project demonstrates a CI/CD pipeline setup for a React app using AWS servi
 - **Build**: AWS CodeBuild project to build the app.
 - **Deploy**: AWS S3 bucket to host the app.
 
+![Screenshot_2](https://github.com/VedantK1610/React-app-CICD-AWS/blob/main/Screenshot%202024-07-28%20125313.png)
+
 ## Prerequisites
 - Node.js
 - AWS Account
