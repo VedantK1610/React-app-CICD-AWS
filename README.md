@@ -33,3 +33,6 @@ This project demonstrates a CI/CD pipeline setup for a React app using AWS servi
 - Add GitHub as the source provider and select your repository.
 - Add CodeBuild as the build provider and select your build project.
 - Add S3 as the deploy provider and specify your S3 bucket.
+
+## Deployment
+The app is deployed to an S3 bucket and can be accessed at http://react-cicd-project.s3-website.ap-south-1.amazonaws.com 
